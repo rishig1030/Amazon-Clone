@@ -21,7 +21,7 @@
 .nav-logo{
     height: 50px;
     width: 100px;
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: cover; 
 }
 .border:hover{
